@@ -1,0 +1,7 @@
+{
+  "name": "AppCenterApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
