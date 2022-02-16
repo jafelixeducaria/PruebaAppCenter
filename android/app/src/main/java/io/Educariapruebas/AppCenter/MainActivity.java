@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package io.Educariapruebas.AppCenter;
 
 import com.getcapacitor.BridgeActivity;
 
